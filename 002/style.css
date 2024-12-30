@@ -1,0 +1,8 @@
+.title {
+    position: absolute;
+    top: 0;
+    left: 1rem;
+    z-index: 100;
+    color: white;
+    font-family: monospace;
+}
