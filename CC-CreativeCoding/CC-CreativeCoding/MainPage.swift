@@ -37,6 +37,18 @@ struct MainPage: View {
                                 NavigationLink(destination: CC_0210_010()) {
                                     subButton(title: "0210")
                                 }
+                                NavigationLink(destination: CC_0211_011()) {
+                                    subButton(title: "0211")
+                                }
+                                NavigationLink(destination: CC_0212_012()) {
+                                    subButton(title: "0212")
+                                }
+                                NavigationLink(destination: CC_0213_013()) {
+                                    subButton(title: "0213")
+                                }
+                                NavigationLink(destination: CC_0214_014()) {
+                                    subButton(title: "0214")
+                                }
                             }
                         }
                 }
